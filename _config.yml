@@ -1,0 +1,5 @@
+name: AMP für Shopware
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
